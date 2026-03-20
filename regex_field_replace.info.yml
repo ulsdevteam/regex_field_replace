@@ -1,0 +1,8 @@
+name: Regex Field Replace
+type: module
+description: 'Provides a VBO-compatible Action that applies a regex find/replace to a specified field across a bulk selection of entities.'
+package: Content
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:system
+  - views_bulk_operations:views_bulk_operations

@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * @file
+ * Regex Field Replace module.
+ *
+ * Provides a Views Bulk Operations (VBO) Action that prompts the user for a
+ * field name, a regex pattern, and a replacement string, then applies
+ * preg_replace() to each selected entity's field value in bulk.
+ */

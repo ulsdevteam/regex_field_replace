@@ -1,0 +1,17 @@
+{
+  "name": "drupal/regex_field_replace",
+  "description": "VBO Action to bulk apply regex find/replace to entity fields.",
+  "type": "drupal-module",
+  "license": [
+    "BSD-2-Clause",
+    "MIT"
+  ],
+  "require": {
+    "drupal/views_bulk_operations": "^4"
+  },
+  "extra": {
+    "drupal": {
+      "version": "1.0.0"
+    }
+  }
+}
